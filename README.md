@@ -1,0 +1,2 @@
+# cssoc_git
+story
